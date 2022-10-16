@@ -1,0 +1,4 @@
+GoLang can be formatted with go fmt package. go fmt package formats the golang source code in an idiomatic way. Certain IDEs by default run the go fmt package like 
+VS Code ,intellij. This can also be run using the command - go fmt -w -l driectoryname , -w formats whole directory in which current file resides whereas
+-l lists the changed files.
+
