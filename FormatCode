@@ -2,3 +2,7 @@ GoLang can be formatted with go fmt package. go fmt package formats the golang s
 VS Code ,intellij. This can also be run using the command - go fmt -w -l driectoryname , -w formats whole directory in which current file resides whereas
 -l lists the changed files.
 
+Format all files in current directory then :
+go fmt
+go fmt -w .
+
