@@ -1,0 +1,8 @@
+go run compiles and runs application but doesn't build an executable file
+go build compiles and builds executable file which can be run later
+
+if we want to build an executable file called automation.exe from main.go then we can use the below command
+go build -o automation.exe
+
+Running go build on current directory will compile all current directory and creates executable files with the name of the directory
+
